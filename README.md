@@ -20,4 +20,5 @@ by grouping them into folders based on their file extensions.
 1. Install Python
 2. Run the script:
    ```bash
-   python file_organizer.py
+   PythonProject1.py
+
